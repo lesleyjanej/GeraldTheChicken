@@ -5,7 +5,7 @@ The source code is located within the GeraldTheChicken -> GeraldTheChicken folde
 
 To play the game, you may download processing and open it as a sketch, or if you have a Windows OS then you may do the following:
 
-Game executable for Windows OS:
+<b>Game executable for Windows OS:</b>
 
 1. Download the windows-amd64.zip file which is in the root folder.
 2. Unzip it.
@@ -13,5 +13,5 @@ Game executable for Windows OS:
 4. Double click the file to open and play.
 5. Enjoy and read the known bugs section below first!
 
-KNOWN BUGS:
+<b>KNOWN BUGS:</b>
 When using an activated jetpack, instead of flying normally, the player gets involuntarily stuck to the top of the screen indefinitely. This happens very rarely but is obviously very annoying. Apologies.
