@@ -16,3 +16,6 @@ To play the game, you may download processing and open it as a sketch, or if you
 <b>KNOWN BUGS:</b>
 
 When using an activated jetpack, instead of flying normally, the player gets involuntarily stuck to the top of the screen indefinitely. This happens very rarely but is obviously very annoying. Apologies.
+
+
+Copyright © Lesleyjane J 2022
