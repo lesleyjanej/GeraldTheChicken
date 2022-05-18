@@ -1,7 +1,7 @@
 # GeraldTheChicken
 Gerald The Chicken is an auto-runner 2D platformer game in which the user plays as Gerald (a handsome chicken) who has been kidnapped from his family by an evil farmer. He must defeat all six levels to get home to his family. This project was developed in Processing, an open-source GUI library, built on Java, for developing games. https://processing.org/
 
-The source code is located within the GeraldTheChicken -> GeraldTheChicken folder. All .pde files contain source code for the game. All images used within the game are located in GeraldTheChicken -> GeraldTheChicken -> data. Class diagrams can be found in the Diagrams folder, whilst screenshots of the game are located in the Screenshots folder.
+The source code is located within the GeraldTheChicken -> GeraldTheChicken folder. All .pde files contain source code for the game. All images used within the game are located in GeraldTheChicken -> GeraldTheChicken -> data. Class diagrams can be found in the Diagrams folder, whilst screenshots of the game are located in the Screenshots folder. There is also a player guide (root folder), which I would advise looking at before playing the game!
 
 To play the game, you may download processing and open it as a sketch, or if you have a Windows OS then you may do the following:
 
