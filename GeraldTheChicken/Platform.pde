@@ -3,7 +3,7 @@
  * Platforms are game objects are therefore subclass GameObject.
  * Responsible for drawing the platform to the screen.
  * 
- * Created by Student 210033811.
+ * Created by Lesleyjane J.
  */
 public abstract class Platform extends GameObject {
   public color platformColor;

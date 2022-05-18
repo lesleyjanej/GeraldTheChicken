@@ -2,7 +2,7 @@
  * Stores the properties of a Fireball.
  * Contains methods for updating the fireball, displaying it and checking if it intersects with a GameObject instance.
  *
- * Created by Student 210033811.
+ * Created by Lesleyjane J.
  */
 public class Fireball {
   PVector position;

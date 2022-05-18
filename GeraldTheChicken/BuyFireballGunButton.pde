@@ -2,7 +2,7 @@
  * Use this class to create a new BuyFireballGunButton.
  * Subclasses Button.
  *
- * Created by Student 210033811.
+ * Created by Lesleyjane J.
  */
 public class BuyFireballGunButton extends Button {
   

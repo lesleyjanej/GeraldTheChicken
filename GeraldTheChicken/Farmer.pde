@@ -2,7 +2,7 @@
  * Stores the properties of a Farmer, which is an Enemy.
  * Contains a method show() for displaying the Farmer to the screen.
  *
- * Created by Student 210033811.
+ * Created by Lesleyjane J.
  */
 public class Farmer extends Enemy {
   /**

@@ -1,7 +1,7 @@
 /**
  * Use this class to create a Jetpack Item. Subclasses Item.
  * 
- * Created by Student 210033811.
+ * Created by Lesleyjane J.
  */
 public class Jetpack extends Item {
   boolean active;

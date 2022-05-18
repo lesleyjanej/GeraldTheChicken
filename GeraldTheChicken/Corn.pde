@@ -2,7 +2,7 @@
  * Stores the properties of a Corn, which is a GameObject.
  * Contains a method show() for displaying the Corn to the screen.
  *
- * Created by Student 210033811.
+ * Created by Lesleyjane J.
  */
 public class Corn extends GameObject {
   int worthPoints; // number of points which the player will earn if they collect the corn

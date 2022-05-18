@@ -2,7 +2,7 @@
  * Create a new StandardPlatform with a start x and y position, width and height.
  * Responsible for drawing the platform to the screen.
  *
- * Created by Student 210033811.
+ * Created by Lesleyjane J.
  */
 public class StandardPlatform extends Platform {
   

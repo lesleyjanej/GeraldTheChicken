@@ -2,7 +2,7 @@
  * Use this class to create a new BuyExtraLifeButton.
  * Subclasses Button.
  *
- * Created by Student 210033811.
+ * Created by Lesleyjane J.
  */
 public class BuyExtraLifeButton extends Button {
   

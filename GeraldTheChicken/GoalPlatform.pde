@@ -3,7 +3,7 @@
  * Subclasses Platform.
  * Responsible for drawing the platform to the screen.
  *
- * Created by Student 210033811.
+ * Created by Lesleyjane J.
  */
 public class GoalPlatform extends Platform {
   

@@ -2,7 +2,7 @@
  * Use this class to create a range of float numbers by specifiying the lowest and highest float allowed.
  * Contains method to check if a number is in the range.
  * 
- * Created by Student 210033811.
+ * Created by Lesleyjane J.
  */
 class Range {
    float low;

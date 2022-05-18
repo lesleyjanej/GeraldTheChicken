@@ -2,7 +2,7 @@
  * Represents an PlayerAlreadyHasItemException which subclasses the Exception class.
  * Used when a player already has a unique item which cannot be purchased more than once.
  * 
- * Created by Student 210033811.
+ * Created by Lesleyjane J.
  */
 public class PlayerAlreadyHasItemException extends Exception {
 

@@ -1,7 +1,7 @@
 /**
  * Represents an InsufficientFundsException which subclasses the Exception class.
  * 
- * Created by Student 210033811.
+ * Created by Lesleyjane J.
  */
 public class InsufficientFundsException extends Exception {
 

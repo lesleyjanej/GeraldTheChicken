@@ -2,7 +2,7 @@
  * Stores the properties of a Chilli, which is a GameObject.
  * Contains a method show() for displaying the Chilli to the screen.
  *
- * Created by Student 210033811.
+ * Created by Lesleyjane J.
  */
 public class Chilli extends GameObject{
 

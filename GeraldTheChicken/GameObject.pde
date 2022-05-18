@@ -5,7 +5,7 @@
  * Contains a method update, which moves the object to the left of the screen.
  * Also checks if a game object is intersecting with a player.
  * 
- * Created by Student 210033811.
+ * Created by Lesleyjane J.
  */
 public abstract class GameObject {
   PVector position;

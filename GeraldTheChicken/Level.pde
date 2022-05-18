@@ -6,7 +6,7 @@ import java.lang.Math;
  * It is also responsible for procedurally generating a level, rendering a level and 
  * checks if a player has come into contact with any side of a platform in the level.
  *
- * Created by Student 210033811.
+ * Created by Lesleyjane J.
  */
 public class Level {
   // The platforms in the level are stored in a Stack

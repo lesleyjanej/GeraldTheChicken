@@ -2,7 +2,7 @@
  * Use this class to create a new goal object (depicted by a red flag).
  * Extends GameObject.
  * 
- * Created by Student 210033811.
+ * Created by Lesleyjane J.
  */
 public class Goal extends GameObject {
   

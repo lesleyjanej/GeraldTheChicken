@@ -3,7 +3,7 @@
  * Stores properties about the player such as position, velocity, width, height and many more.
  * The player has a total number of points they have earned which can be spent in the shop. Use the purchaseItem method to spend them.
  *
- * Created by Student 210033811.
+ * Created by Lesleyjane J.
  */
 public class Player {
   PVector position;

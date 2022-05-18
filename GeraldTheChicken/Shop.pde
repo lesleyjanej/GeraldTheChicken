@@ -3,7 +3,7 @@
  * Stores a list of items.
  * Contains a method to check if the shop sells the item.
  * 
- * Created by Student 210033811.
+ * Created by Lesleyjane J.
  */
 public class Shop {
   ArrayList<Item> itemsList; // list of items which the shop sells

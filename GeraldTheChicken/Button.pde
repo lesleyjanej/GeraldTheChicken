@@ -2,7 +2,7 @@
  * Use this class to create a new Button and check if the player has clicked on it.
  * Contains a method show() for displaying the button to the screen.
  *
- * Created by Student 210033811.
+ * Created by Lesleyjane J.
  */
 public class Button {
  float startX; // start X coordinate of the button

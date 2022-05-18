@@ -2,7 +2,7 @@
  * Stores the properties of a Fox, which is an Enemy.
  * Contains a method show() for displaying the Fox to the screen.
  *
- * Created by Student 210033811.
+ * Created by Lesleyjane J.
  */
 public class Fox extends Enemy {
   /**

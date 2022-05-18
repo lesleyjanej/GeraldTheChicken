@@ -2,7 +2,7 @@
  * Stores the properties of a Wolf, which is an Enemy.
  * Contains a method show() for displaying the Wolf to the screen.
  *
- * Created by Student 210033811.
+ * Created by Lesleyjane J.
  */
 public class Wolf extends Enemy {
   /**

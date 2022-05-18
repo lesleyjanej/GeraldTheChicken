@@ -5,7 +5,7 @@
  * is displayed when the gameState is "PLAY". There are other game states for showing the next level,
  * losing the game, opening the shop, etc.
  *
- * Created by Student 210033811.
+ * Created by Lesleyjane J.
  */
 Player player; // one player for the game, player plays as Gerald
 Shop inGameShop; // the in game shop which can be accessed after successfully completing a level

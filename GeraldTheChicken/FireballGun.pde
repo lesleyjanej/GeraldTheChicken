@@ -1,7 +1,7 @@
 /**
  * Use this class to create a Firegun Item. Subclasses Item.
  *
- * Created by Student 210033811.
+ * Created by Lesleyjane J.
  */
 public class FireballGun extends Item {
   Queue<Fireball> ammo;
